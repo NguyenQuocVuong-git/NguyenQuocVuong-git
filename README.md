@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Vuong</h1>
 <h3 align="center">A fullstack developer in Viet Nam</h3>
 
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenquocvuong-git&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenquocvuong-git" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenquocvuong-git" alt="nguyenquocvuong-git" /></a> </p>
